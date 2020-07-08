@@ -56,7 +56,7 @@ class ColourValue;
 class Quaternion;
 class Any;
 class Entity;
-}
+} // namespace Ogre
 
 namespace rviz {
 typedef std::vector<std::shared_ptr<Shape>> shape_vector;
